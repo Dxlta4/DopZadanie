@@ -5,7 +5,10 @@
 ## Ход работы
 ## Этап 1: Подготовка файлов  и запуск конфигурации
 Создали файлы и запустили контейнер.
-<img width="974" height="326" alt="image" src="https://github.com/user-attachments/assets/0a45dc29-b91e-40d1-96b4-938c3c56aaf3" />
+<img width="568" height="82" alt="image" src="https://github.com/user-attachments/assets/fdb908f7-0687-4a96-9e3f-ec8b409d44ca" />
+<img width="1280" height="268" alt="image" src="https://github.com/user-attachments/assets/ae00e84d-2f18-4e26-b72d-4784ebad255c" />
+
+
 
 ## Этап 2: Проверка cAdvisor
 
@@ -34,7 +37,8 @@
 1. Открыли веб-интерфейс Grafana
 2. Добавили новый Data Source (источник данных):
   
-<img width="974" height="664" alt="image" src="https://github.com/user-attachments/assets/8ece5e73-99e4-41f3-8113-d808b7807d92" />
+<img width="1280" height="656" alt="image" src="https://github.com/user-attachments/assets/c4f90316-8e2d-407a-9bc1-233522d4a52a" />
+
 
 ## Этап 6: Создание простого дашборда для тестирования
 
