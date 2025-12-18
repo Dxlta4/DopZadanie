@@ -55,7 +55,8 @@
 2. Наблюдаем в реальном времени, как метрики изменяются на дашборде Grafana
 3. Остановили нагрузку
 4. Проанализировали, как быстро метрики вернулись к норме
-<img width="729" height="56" alt="image" src="https://github.com/user-attachments/assets/f44190d1-1b87-424d-b86f-6c5b9f84599d" />
+<img width="676" height="46" alt="image" src="https://github.com/user-attachments/assets/9ef21914-701f-4353-97b2-0a17cc3095ab" />
+
 
 Метрики вернулись к норме в течении 7 минут.
 
