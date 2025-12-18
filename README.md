@@ -65,7 +65,7 @@
 2. Создайте скриншоты дашборда во время нагрузки
 3. Опишите наблюдаемые изменения в метриках
 
-<img width="724" height="459" alt="image" src="https://github.com/user-attachments/assets/3914d015-b347-448a-8477-5d68041ffaf1" />
+<img width="1345" height="917" alt="image" src="https://github.com/user-attachments/assets/6f207554-fdb9-427d-be9b-69e848646c14" />
 
 
 
